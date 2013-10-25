@@ -1,4 +1,3 @@
-zeitgeist-timestampable
-=======================
+# Timestampable Behaviour (ZeitgeistModel)
 
-ZeitgeistModel's Timestampable behaviour for Meteor
+Timestampable Behaviour (ZeitgeistModel) for Meteor

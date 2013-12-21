@@ -1,10 +1,10 @@
 Package.describe({
-  summary: 'Timestampable Behaviour (ZeitgeistModel) for Meteor'
+  summary: 'Timestampable behavior for Meteor\'s Verin Model package'
 });
 
 Package.on_use(function (api) {
   api.use([
-    'zeitgeist-model'
+    'verin-model'
   ], ['client', 'server']);
   
   api.add_files('lib/timestampable.js', ['client', 'server']);
